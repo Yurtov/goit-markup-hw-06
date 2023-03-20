@@ -725,6 +725,7 @@ body {
 
 .form-input:focus {
 	border-color: var(--accent-color);
+	color: #000;
 }
 
 .form-input:focus + .form-icon {
@@ -790,7 +791,6 @@ body {
 }
 
 .policy-link {
-	/* display: block; */
 	margin-left: 3px;
 	color: var(--accent-color);
 }
