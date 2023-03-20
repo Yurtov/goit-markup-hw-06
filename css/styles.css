@@ -725,7 +725,6 @@ body {
 
 .form-input:focus {
 	border-color: var(--accent-color);
-	color: #000;
 }
 
 .form-input:focus + .form-icon {
